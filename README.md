@@ -91,4 +91,4 @@ A page object model is used to structure the tests, making the test code more re
 ## Contact
 
 - Anton Rosh - me@antonrosh.dev
-- Project Link: https://github.com/antonrosh/checkers-game-ts-playwright
+- Project Link - [https://github.com/antonrosh/checkers-game-ts-playwright](https://github.com/antonrosh/card-game-api-ts-playwright)
