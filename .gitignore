@@ -1,0 +1,38 @@
+# Node.js / npm related
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables and secrets
+.env
+
+# OS related
+.DS_Store
+Thumbs.db
+
+# Playwright related
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# IDE / Editor related
+# Visual Studio Code settings
+.vscode/
+# IntelliJ platform workspace
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Build related
+/dist/
+/build/
+
+# Other
+.DS_Store
+*.swp
+*~
+._*
+*.bak
+*.tmp
