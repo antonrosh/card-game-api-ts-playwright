@@ -1,4 +1,4 @@
-# The Checkers Game - Automated Tests
+# The Card Game - API Automated Tests
 
 This repository contains API automated tests for the Card Game. The tests were written using Playwright and TypeScript and implemented following steps:
 
